@@ -9,6 +9,7 @@ The Car Price Prediction Model project is aimed at developing a machine learning
 The project will involve a large dataset of Hyundai car sales in which we build a linear regression model to predict the price of Hyundai cars . The data will be cleaned, preprocessed, and transformed into a format suitable for machine learning analysis.
 
 ![image](https://github.com/PrashantMurdare/Hyundai_Car_Predication/assets/129051383/5804b485-5331-48ca-83fc-0239b784e3f5)
+
 ![image](https://github.com/PrashantMurdare/Hyundai_Car_Predication/assets/129051383/5d4fb2a1-26fa-4fef-84f4-c4c067b316dd)
 ![image](https://github.com/PrashantMurdare/Hyundai_Car_Predication/assets/129051383/8971d26a-9b78-4bb7-a12c-07b9cf1efae4)
 
@@ -18,7 +19,8 @@ The Car Price Prediction Model will use machine learning algorithms, such as lin
 
 The key features of the Car Price Prediction Model project will include data collection and cleaning, model development and optimization, and model validation and testing.
 
-## Result
+## Conclusion
+Result 
 
 ![image](https://github.com/PrashantMurdare/Hyundai_Car_Predication/assets/129051383/6c544356-4e5a-48cb-a493-9bf117b188ca)
 
