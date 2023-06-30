@@ -6,8 +6,8 @@ The Car Price Prediction Model project is aimed at developing a machine learning
 ![image](https://github.com/PrashantMurdare/Hyundai_Car_Predication/assets/129051383/2ea61a66-8b44-4aec-9f2b-673aa706d83b)
 
 ## Tech stack used:
-# Python & Pandas (for data wrangling)
-# Pandas, Sklearn, Seaborn, Matplotib (for understanding data and building models).
+- Python & Pandas (for data wrangling)
+- Pandas, Sklearn, Seaborn, Matplotib (for understanding data and building models).
 
 ## Exploratory Data analysis
 The project will involve a large dataset of Hyundai car sales in which we build a linear regression model to predict the price of Hyundai cars . The data will be cleaned, preprocessed, and transformed into a format suitable for machine learning analysis.
