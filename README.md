@@ -1,4 +1,4 @@
-### Hyundai_Car_Predication
+# Hyundai_Car_Predication
 
 ## Introduction
 The Car Price Prediction Model project is aimed at developing a machine learning model that can accurately predict the selling price of used cars based on a range of factors, such as car make and model, mileage, age, condition, and location.
